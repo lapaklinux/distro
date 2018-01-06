@@ -1,4 +1,4 @@
-Nama_Distro,Link_Website
+"Nama_Distro","Link_Website"
 A,
 B,
 C,
@@ -23,6 +23,6 @@ U,
 P,
 W,
 X,
-Xenta OS,http://www.xentaos.org
+"Xenta OS","http://www.xentaos.org"
 Y,
 Z,
